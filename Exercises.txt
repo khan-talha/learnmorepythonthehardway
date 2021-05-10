@@ -1,0 +1,16 @@
+Excercise 0: The Setup
+
+""" SUMMARY & RESOURCES """
+
+1. You need a programmer’s text editor, not an IDE. Vim, Emacs, and Atom are all programmer’s text editors. Everything you can do with an IDE you can also do with a real programmer’s text editor, and since editors like Vim, Emacs, and Atom are scriptable and modifiable they are future proof. If you are just starting out and want to get a decent programmer’s editor that is free, then you should get
+Atom (https://atom.io) or VisualStudio Code (https://code.visualstudio.com).
+
+2. This book requires Python 3.6. If you do not know Python 3.6, then you can read Learn Python 3 the
+Hard Way to get the basics.
+
+3. The pip tool installs packages off the internet and puts them on your computer so you can import them in your Python scripts. The problem with pip is you are forced to install it in official directories on your computer that require root or Administrator access. The solution to this is the tool virtualenv, which creates a kind of “python package sandbox” in a directory and then allows you to run pip to install packages there rather than into the whole main computer.
+
+4. You will want to go to github.com and sign up for an account. If you have a github.com account then you’ll also need the command line tool git.
+
+Exercise 1: On Process
+
